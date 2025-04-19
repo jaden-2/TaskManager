@@ -17,10 +17,10 @@ A secure Spring Boot API for managing users and their tasks. Includes JWT authen
 - Maven
 - JWT
 - Swagger (SpringDoc)
-
+<a href="https://documenter.getpostman.com/view/32058368/2sB2cd5ydm", targer="blank">Postman TaskManager API</a>
 ## Getting Started
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/user-task-api.git
 cd user-task-api
-<a href="https://documenter.getpostman.com/view/32058368/2sB2cd5ydm", targer="blank">Postman TaskManager API</a>
+
