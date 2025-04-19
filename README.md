@@ -7,7 +7,7 @@ A secure Spring Boot API for managing users and their tasks. Includes JWT authen
 - Token-based authentication (JWT)
 - Task CRUD operations
 - Access control: users can only manage their own tasks
-- Swagger UI documentation
+- 📫 [Postman Collection](https://www.postman.com/collections/YOUR_COLLECTION_LINK)
 
 ## Tech Stack
 - Java 17
@@ -17,7 +17,7 @@ A secure Spring Boot API for managing users and their tasks. Includes JWT authen
 - Maven
 - JWT
 - Swagger (SpringDoc)
-<a href="https://documenter.getpostman.com/view/32058368/2sB2cd5ydm", targer="blank">Postman TaskManager API</a>
+
 ## Getting Started
 
 ```bash
