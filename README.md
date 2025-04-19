@@ -7,7 +7,7 @@ A secure Spring Boot API for managing users and their tasks. Includes JWT authen
 - Token-based authentication (JWT)
 - Task CRUD operations
 - Access control: users can only manage their own tasks
-- 📫 [Postman Collection](https://www.postman.com/collections/YOUR_COLLECTION_LINK)
+- 📫 [Postman Collection](https://documenter.getpostman.com/view/32058368/2sB2cd5ydm)
 
 ## Tech Stack
 - Java 17
